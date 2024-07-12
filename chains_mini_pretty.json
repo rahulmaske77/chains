@@ -12505,6 +12505,19 @@
   "faucets": [],
   "infoURL": "https://explorer.evokescan.org"
 }, {
+  "name": "WeaveVM Testnet",
+  "chainId": 9496,
+  "shortName": "twvm",
+  "networkId": 9496,
+  "nativeCurrency": {
+    "name": "Testnet WeaveVM Token",
+    "symbol": "tWVM",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet.wvm.dev"],
+  "faucets": [],
+  "infoURL": "https://wvm.dev"
+}, {
   "name": "Rangers Protocol Testnet Robin",
   "chainId": 9527,
   "shortName": "trpg",
@@ -14155,6 +14168,19 @@
   "rpc": ["https://rpc.mainnet.oasys.homeverse.games/"],
   "faucets": [],
   "infoURL": "https://www.homeverse.games/"
+}, {
+  "name": "BlockX Atlantis Testnet",
+  "chainId": 19077,
+  "shortName": "tbcx",
+  "networkId": 19077,
+  "nativeCurrency": {
+    "name": "BCX",
+    "symbol": "BCX",
+    "decimals": 18
+  },
+  "rpc": ["https://atlantis-web3.blockxnet.com"],
+  "faucets": ["https://ping.blockxnet.com/blockx-atlantis-testnet/faucet"],
+  "infoURL": "https://www.blockxnet.com/"
 }, {
   "name": "Decentraconnect Social",
   "chainId": 19224,
@@ -17545,7 +17571,7 @@
     "symbol": "VET",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://rpc-testnet.vechain.energy"],
   "faucets": ["https://faucet.vecha.in"],
   "infoURL": "https://vechain.org"
 }, {
@@ -19186,6 +19212,19 @@
   "rpc": [],
   "faucets": [],
   "infoURL": "https://worldcoin.org/"
+}, {
+  "name": "Gobbl Testnet",
+  "chainId": 486487,
+  "shortName": "gbl-testnet",
+  "networkId": 486487,
+  "nativeCurrency": {
+    "name": "Gobbl Token",
+    "symbol": "GOBBL",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.gobbl.io"],
+  "faucets": ["https://faucet.gobbl.io"],
+  "infoURL": "https://www.gobbl.io/"
 }, {
   "name": "Autonomys Testnet Nova Domain",
   "chainId": 490000,

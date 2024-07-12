@@ -1255,6 +1255,14 @@
     "format": "png"
   }]
 }, {
+  "name": "gobbl",
+  "icons": [{
+    "url": "ipfs://QmQbJTFnUfWf31d16beZfqM4Fo5NRJjryNrDMyNfj9YQnS",
+    "width": 1280,
+    "height": 1280,
+    "format": "png"
+  }]
+}, {
   "name": "web3games",
   "icons": [{
     "url": "ipfs://QmUc57w3UTHiWapNW9oQb1dP57ymtdemTTbpvGkjVHBRCo",
@@ -4471,6 +4479,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "weavevm",
+  "icons": [{
+    "url": "ipfs://QmZrL43kuLcK14gQo1cVbzwczcVULxN6NKb4EcjYpFpE7w",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "gmmt",
   "icons": [{
     "url": "ipfs://QmVth4aPeskDTFqRifUugJx6gyEHCmx2PFbMWUtsCSQFkF",
@@ -4905,9 +4921,9 @@
 }, {
   "name": "core",
   "icons": [{
-    "url": "ipfs://QmeTQaBCkpbsxNNWTpoNrMsnwnAEf1wYTcn7CiiZGfUXD2",
-    "width": 200,
-    "height": 217,
+    "url": "ipfs://QmdUgiGaD6fGjhb9x1NvfccvEBBFq2YHSm9yb8FNhpwHkW",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
