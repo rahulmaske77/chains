@@ -883,7 +883,7 @@
 }, {
   "name": "Crab Network",
   "chain": "crab",
-  "rpc": ["https://crab-rpc.darwinia.network", "https://crab-rpc.darwiniacommunitydao.xyz"],
+  "rpc": ["https://crab-rpc.darwinia.network", "https://crab-rpc.dcdao.box"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Crab Network Native Token",
@@ -922,20 +922,20 @@
 }, {
   "name": "Darwinia Network",
   "chain": "darwinia",
-  "rpc": ["https://rpc.darwinia.network", "https://darwinia-rpc.darwiniacommunitydao.xyz", "https://darwinia-rpc.dwellir.com"],
+  "rpc": ["https://rpc.darwinia.network", "https://darwinia-rpc.dcdao.box", "https://darwinia-rpc.dwellir.com"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Darwinia Network Native Token",
     "symbol": "RING",
     "decimals": 18
   },
-  "infoURL": "https://darwinia.network/",
+  "infoURL": "https://darwinia.network",
   "shortName": "darwinia",
   "chainId": 46,
   "networkId": 46,
   "explorers": [{
-    "name": "subscan",
-    "url": "https://darwinia.subscan.io",
+    "name": "blockscout",
+    "url": "https://explorer.darwinia.network",
     "standard": "EIP3091"
   }]
 }, {
@@ -19256,6 +19256,21 @@
   }],
   "status": "active"
 }, {
+  "name": "Chakra Testnet",
+  "chain": "Chakra Testnet",
+  "rpc": ["https://rpcv1-dn-1.chakrachain.io/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Chakra",
+    "symbol": "CKR",
+    "decimals": 18
+  },
+  "infoURL": "",
+  "shortName": "ChakraTN",
+  "chainId": 8545,
+  "networkId": 8545,
+  "explorers": []
+}, {
   "name": "Toki Network",
   "chain": "TOKI",
   "rpc": ["https://mainnet.buildwithtoki.com/v0/rpc"],
@@ -22450,6 +22465,28 @@
       "url": "https://garnetchain.com/deposit"
     }]
   }
+}, {
+  "name": "Onchain Points",
+  "chain": "POP",
+  "rpc": ["https://rpc.onchainpoints.xyz", "https://rpc-onchain-points-8n0qkkpr2j.t.conduit.xyz/{CONDUIT_API_KEY}"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "OnchainPoints.xyz",
+    "symbol": "POP",
+    "decimals": 18
+  },
+  "infoURL": "https://onchainpoints.xyz",
+  "shortName": "pop",
+  "chainId": 17071,
+  "networkId": 17071,
+  "icon": "pop",
+  "status": "incubating",
+  "explorers": [{
+    "name": "blockscout",
+    "url": "https://explorer.onchainpoints.xyz",
+    "icon": "blockscout",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "DeFiVerse Testnet",
   "chain": "DeFiVerse Testnet",
@@ -26476,6 +26513,32 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "Vecno Mainnet",
+  "chain": "VE",
+  "rpc": ["https://rpc.vecno.org"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Vecno",
+    "symbol": "VE",
+    "decimals": 18
+  },
+  "features": [{
+    "name": "EIP155"
+  }, {
+    "name": "EIP1559"
+  }],
+  "infoURL": "https://vecno.org",
+  "shortName": "ve",
+  "chainId": 65357,
+  "networkId": 65357,
+  "icon": "vecno",
+  "explorers": [{
+    "name": "vecno",
+    "url": "https://explorer.vecno.org",
+    "icon": "blockscout",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Scolcoin Mainnet",
   "chain": "SCOLWEI",
   "rpc": ["https://mainnet-rpc.scolcoin.com"],
@@ -26495,6 +26558,22 @@
     "url": "https://explorer.scolcoin.com",
     "standard": "EIP3091"
   }]
+}, {
+  "name": "Automata Mainnet",
+  "chain": "Automata Mainnet",
+  "rpc": [],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "ATA",
+    "symbol": "ATA",
+    "decimals": 18
+  },
+  "infoURL": "https://ata.network",
+  "shortName": "automatamainnet",
+  "chainId": 65536,
+  "networkId": 65536,
+  "icon": "automata",
+  "explorers": []
 }, {
   "name": "Janus Testnet",
   "chain": "JanusNetwork",
@@ -30133,6 +30212,28 @@
     "chain": "eip155-11155111"
   }
 }, {
+  "name": "Cipherem Testnet",
+  "chain": "Cipherem",
+  "rpc": ["https://testnet.cipherem.com"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "CIP",
+    "symbol": "CIP",
+    "decimals": 18
+  },
+  "infoURL": "https://www.cipherem.com",
+  "shortName": "CIP",
+  "chainId": 292003,
+  "networkId": 292003,
+  "slip44": 1,
+  "icon": "cipherem",
+  "explorers": [{
+    "name": "Cipherscan Testnet Explorer",
+    "icon": "cipherscan",
+    "url": "https://cipherscan.net",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "One World Chain Mainnet",
   "chain": "One World Chain",
   "icon": "oneWorldChainIcon",
@@ -30254,6 +30355,26 @@
   "explorers": [{
     "name": "Bloom Genesis Testnet",
     "url": "https://testnet.bloomgenesis.com",
+    "standard": "EIP3091"
+  }]
+}, {
+  "name": "Nal Mainnet",
+  "chain": "ETH",
+  "icon": "nal",
+  "rpc": ["https://rpc.nal.network", "wss://wss.nal.network"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "infoURL": "https://www.nal.network",
+  "shortName": "nal",
+  "chainId": 328527,
+  "networkId": 328527,
+  "explorers": [{
+    "name": "Nal Network Explorer",
+    "url": "https://scan.nal.network",
     "standard": "EIP3091"
   }]
 }, {
@@ -32556,11 +32677,11 @@
 }, {
   "name": "Automata Testnet",
   "chain": "Automata Testnet",
-  "rpc": [],
+  "rpc": ["https://automata-testnet.alt.technology"],
   "faucets": [],
   "nativeCurrency": {
-    "name": "Ether",
-    "symbol": "ETH",
+    "name": "ATA",
+    "symbol": "ATA",
     "decimals": 18
   },
   "infoURL": "https://ata.network",
@@ -32568,7 +32689,11 @@
   "chainId": 1398243,
   "networkId": 1398243,
   "icon": "automata",
-  "explorers": []
+  "explorers": [{
+    "name": "Automata Testnet Explorer",
+    "url": "https://automata-testnet-explorer.alt.technology",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "PlayFi Albireo Testnet",
   "chain": "ETH",
@@ -33470,6 +33595,26 @@
   "explorers": [{
     "name": "Soverun",
     "url": "https://explorer.soverun.com",
+    "standard": "EIP3091"
+  }]
+}, {
+  "name": "AlienX Mainnet",
+  "chain": "AlienX Mainnet",
+  "rpc": ["https://rpc.alienxchain.io/http"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "infoURL": "https://alienxchain.io/home",
+  "shortName": "AlienX",
+  "chainId": 10241024,
+  "networkId": 10241024,
+  "icon": "alienx",
+  "explorers": [{
+    "name": "AlienXChain Explorer",
+    "url": "https://explorer.alienxchain.io",
     "standard": "EIP3091"
   }]
 }, {
