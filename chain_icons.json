@@ -1735,6 +1735,14 @@
     "format": "png"
   }]
 }, {
+  "name": "waba",
+  "icons": [{
+    "url": "ipfs://QmX3NPsVTaBQDBySzMKZLVJhN4kakkAwrfz9mrqmUhNzUU",
+    "width": 32,
+    "height": 32,
+    "format": "png"
+  }]
+}, {
   "name": "lbry",
   "icons": [{
     "url": "ipfs://QmUoSiFWaPTbVY6ZfJswzrM9jKuhfhXWwstRo49cVCWr8x",
@@ -1813,6 +1821,14 @@
     "width": 512,
     "height": 512,
     "format": "svg"
+  }]
+}, {
+  "name": "race",
+  "icons": [{
+    "url": "ipfs://QmQGaiPkSHc8ZGLAE4A8yZdFWLeuEts4VX6FjEqnuPXvxh",
+    "width": 184,
+    "height": 417,
+    "format": "png"
   }]
 }, {
   "name": "scn",
@@ -3287,6 +3303,14 @@
     "format": "png"
   }]
 }, {
+  "name": "dbkchain",
+  "icons": [{
+    "url": "ipfs://bafybeib7ovny3xkl4nr4a5oqvoqwf7dcjtqavydysclfmbavbl2oekhxty",
+    "width": 1600,
+    "height": 1600,
+    "format": "png"
+  }]
+}, {
   "name": "scolcoin",
   "icons": [{
     "url": "ipfs://QmVES1eqDXhP8SdeCpM85wvjmhrQDXGRquQebDrSdvJqpt",
@@ -3716,6 +3740,14 @@
     "url": "ipfs://Qmc44uSjfdNHdcxPTgZAL8eZ8TLe4UmSHibcvKQFyGJxTB",
     "width": 1024,
     "height": 1024,
+    "format": "png"
+  }]
+}, {
+  "name": "kymtc",
+  "icons": [{
+    "url": "ipfs://QmR1AnNYGeXpVmsKyzqktk4K1BtFPiaJpeXuLktb9Kwmer",
+    "width": 1042,
+    "height": 1038,
     "format": "png"
   }]
 }, {
@@ -4735,6 +4767,14 @@
     "format": "png"
   }]
 }, {
+  "name": "altarTestnet",
+  "icons": [{
+    "url": "ipfs://QmZiJLjciV6KiuxwDebi7CwRhDzei6KKDuStppzsUGtNfN",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "kalichain",
   "icons": [{
     "url": "ipfs://bafkreieox7v337p3jfhd37dz74mq6mn3uk5i5475rmzpirmyp6ydcfzzqi",
@@ -5159,6 +5199,14 @@
     "format": "png"
   }]
 }, {
+  "name": "avenium",
+  "icons": [{
+    "url": "ipfs://QmU5yJvjdeVGzNutn2U6wLWfHDGsDafLfZg7HRJ8ji3yfJ",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "fxcore",
   "icons": [{
     "url": "ipfs://QmauD5hzc5q1VgEU1nT4AGLCeV79CB8GgfnXXeeLmBZVHf",
@@ -5453,6 +5501,14 @@
     "width": 118,
     "height": 118,
     "format": "svg"
+  }]
+}, {
+  "name": "dojima",
+  "icons": [{
+    "url": "ipfs://QmarhJVEb6jVNfW1GP2rcvAfto6DFdr7RSauZQxjd3iFam",
+    "width": 379,
+    "height": 379,
+    "format": "png"
   }]
 }, {
   "name": "xsc",
