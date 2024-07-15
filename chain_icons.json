@@ -687,6 +687,14 @@
     "format": "png"
   }]
 }, {
+  "name": "lif3",
+  "icons": [{
+    "url": "ipfs://QmQqNBEqNnNsaSV6rik6mM8VnaSgYFxfEkjkiXSwgmEgaH",
+    "width": 200,
+    "height": 200,
+    "format": "svg"
+  }]
+}, {
   "name": "lambda-chain",
   "icons": [{
     "url": "ipfs://QmXCWjWSTd6kJZKnH9aQRjgLdWRH9NTxU1wC21iBvoB4Hp",
@@ -2028,6 +2036,14 @@
     "url": "ipfs://QmTw8TyeeNhUFWrck2WCiN17MaHRt5qzRBtaAvmz6L7qq7",
     "width": 669,
     "height": 587,
+    "format": "png"
+  }]
+}, {
+  "name": "wanchain",
+  "icons": [{
+    "url": "ipfs://QmcRVHdG7Sr1f26DhkBwE1YuwFZXFjNth5S3TookXoyFaq",
+    "width": 360,
+    "height": 360,
     "format": "png"
   }]
 }, {
