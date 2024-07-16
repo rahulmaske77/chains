@@ -20993,6 +20993,26 @@
   "chainId": 10086,
   "networkId": 10086
 }, {
+  "name": "MetaNova Verse",
+  "chain": "MNV",
+  "rpc": ["https://web3.metanovaverse.com"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "MNV",
+    "symbol": "MNV",
+    "decimals": 18
+  },
+  "features": [],
+  "infoURL": "https://www.blockxnet.com/",
+  "shortName": "mnv",
+  "chainId": 10096,
+  "networkId": 10096,
+  "explorers": [{
+    "name": "Blockscout",
+    "url": "https://explorer.blockxnet.com",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Blockchain Genesis Mainnet",
   "chain": "GEN",
   "rpc": ["https://eu.mainnet.xixoio.com", "https://us.mainnet.xixoio.com", "https://asia.mainnet.xixoio.com"],
@@ -35175,6 +35195,22 @@
     "icon": "blockscout",
     "standard": "EIP3091"
   }]
+}, {
+  "name": "Neon EVM Devnet Rollup",
+  "chain": "Solana",
+  "rpc": ["https://devnet.rollup.neonevm.org/"],
+  "faucets": [],
+  "icon": "neon",
+  "nativeCurrency": {
+    "name": "Neon",
+    "symbol": "NEON",
+    "decimals": 18
+  },
+  "infoURL": "https://neonevm.org/",
+  "shortName": "neonevm-devnet-rollup",
+  "chainId": 245022929,
+  "networkId": 245022929,
+  "explorers": []
 }, {
   "name": "Neon EVM Mainnet",
   "chain": "Solana",

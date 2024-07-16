@@ -13025,6 +13025,19 @@
   "faucets": [],
   "infoURL": "https://sjis.me"
 }, {
+  "name": "MetaNova Verse",
+  "chainId": 10096,
+  "shortName": "mnv",
+  "networkId": 10096,
+  "nativeCurrency": {
+    "name": "MNV",
+    "symbol": "MNV",
+    "decimals": 18
+  },
+  "rpc": ["https://web3.metanovaverse.com"],
+  "faucets": [],
+  "infoURL": "https://www.blockxnet.com/"
+}, {
   "name": "Blockchain Genesis Mainnet",
   "chainId": 10101,
   "shortName": "GEN",
@@ -21565,6 +21578,19 @@
   "rpc": ["https://devnet.neonevm.org", "https://neon-evm-devnet.drpc.org", "wss://neon-evm-devnet.drpc.org"],
   "faucets": ["https://neonfaucet.org"],
   "infoURL": "https://neon-labs.org"
+}, {
+  "name": "Neon EVM Devnet Rollup",
+  "chainId": 245022929,
+  "shortName": "neonevm-devnet-rollup",
+  "networkId": 245022929,
+  "nativeCurrency": {
+    "name": "Neon",
+    "symbol": "NEON",
+    "decimals": 18
+  },
+  "rpc": ["https://devnet.rollup.neonevm.org/"],
+  "faucets": [],
+  "infoURL": "https://neonevm.org/"
 }, {
   "name": "Neon EVM Mainnet",
   "chainId": 245022934,
