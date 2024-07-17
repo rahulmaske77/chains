@@ -11205,6 +11205,19 @@
   "faucets": ["https://faucet.goldsmartchain.com"],
   "infoURL": "https://goldsmartchain.com"
 }, {
+  "name": "RACE Mainnet",
+  "chainId": 6805,
+  "shortName": "raceeth",
+  "networkId": 6805,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://racemainnet.io/"],
+  "faucets": [],
+  "infoURL": "https://race.foundation/"
+}, {
   "name": "RACE Testnet",
   "chainId": 6806,
   "shortName": "racesep",
@@ -15374,7 +15387,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://rpc-mainnet.funkichain.com", "wss://rpc-mainnet.funkichain.com"],
   "faucets": [],
   "infoURL": "https://funkichain.com"
 }, {
@@ -16391,6 +16404,19 @@
   "rpc": ["https://rpc.gobob.xyz", "wss://rpc.gobob.xyz", "https://bob-mainnet.public.blastapi.io", "wss://bob-mainnet.public.blastapi.io"],
   "faucets": [],
   "infoURL": "https://gobob.xyz"
+}, {
+  "name": "Orange Chain Mainnet",
+  "chainId": 61022,
+  "shortName": "Orange-Chain-Mainnet",
+  "networkId": 61022,
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.orangechain.xyz"],
+  "faucets": [],
+  "infoURL": "https://orangechain.xyz"
 }, {
   "name": "KaiChain",
   "chainId": 61406,
@@ -20578,6 +20604,19 @@
   "faucets": ["https://sepoliafaucet.com/"],
   "infoURL": "https://ceremonies.gitbook.io"
 }, {
+  "name": "ZERO Testnet (Sepolia)",
+  "chainId": 4457845,
+  "shortName": "zero-sepolia",
+  "networkId": 4457845,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.zerion.io/v1/zero-sepolia"],
+  "faucets": [],
+  "infoURL": "https://docs.zero.network"
+}, {
   "name": "NumBlock Chain",
   "chainId": 5112023,
   "shortName": "NUMB",
@@ -20968,10 +21007,23 @@
   "faucets": ["https://app.optimism.io/faucet"],
   "infoURL": "https://optimism.io"
 }, {
-  "name": "NeoX Testnet",
+  "name": "NeoX Testnet T3",
   "chainId": 12227331,
   "shortName": "neox",
   "networkId": 12227331,
+  "nativeCurrency": {
+    "name": "Gas",
+    "symbol": "GAS",
+    "decimals": 18
+  },
+  "rpc": ["https://neoxseed1.ngd.network/"],
+  "faucets": [],
+  "infoURL": "https://neo.org/"
+}, {
+  "name": "NeoX Testnet T4",
+  "chainId": 12227332,
+  "shortName": "neox-t4",
+  "networkId": 12227332,
   "nativeCurrency": {
     "name": "Gas",
     "symbol": "GAS",
