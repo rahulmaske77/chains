@@ -8683,16 +8683,16 @@
   "faucets": [],
   "infoURL": "https://xo-dex.com"
 }, {
-  "name": "King Of Legends Devnet",
+  "name": "King Of Legends Mainnet",
   "chainId": 2425,
-  "shortName": "kol",
+  "shortName": "kcc",
   "networkId": 2425,
   "nativeCurrency": {
     "name": "King Of Legends",
-    "symbol": "KOL",
+    "symbol": "KCC",
     "decimals": 18
   },
-  "rpc": ["https://rpc-devnet.kinggamer.org/"],
+  "rpc": ["https://rpc-mainnet.kinggamer.org/"],
   "faucets": [],
   "infoURL": "https://kingoflegends.net/"
 }, {
@@ -18354,6 +18354,19 @@
   "rpc": ["https://chain-rpc.litprotocol.com/http"],
   "faucets": ["https://faucet.litprotocol.com"],
   "infoURL": "https://developer.litprotocol.com/v3/network/rollup"
+}, {
+  "name": "Chronicle Yellowstone - Lit Protocol Testnet",
+  "chainId": 175188,
+  "shortName": "lpy",
+  "networkId": 175188,
+  "nativeCurrency": {
+    "name": "Test LPX",
+    "symbol": "tstLPX",
+    "decimals": 18
+  },
+  "rpc": ["https://yellowstone-rpc.litprotocol.com"],
+  "faucets": ["https://developer.litprotocol.com/support/intro"],
+  "infoURL": "https://litprotocol.com"
 }, {
   "name": "Bitica Chain Mainnet",
   "chainId": 188710,
