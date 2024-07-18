@@ -2807,6 +2807,19 @@
   "faucets": [],
   "infoURL": "https://mainnet.frax.com"
 }, {
+  "name": "Swan Chain Mainnet",
+  "chainId": 254,
+  "shortName": "Swan",
+  "networkId": 254,
+  "nativeCurrency": {
+    "name": "SWANETH",
+    "symbol": "sETH",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc01.swanchain.io"],
+  "faucets": [],
+  "infoURL": "https://swanchain.io/"
+}, {
   "name": "Kroma",
   "chainId": 255,
   "shortName": "kroma",
@@ -7630,6 +7643,19 @@
   "faucets": [],
   "infoURL": "https://www.hubble.exchange"
 }, {
+  "name": "B3 Sepolia Testnet",
+  "chainId": 1993,
+  "shortName": "b3-sepolia",
+  "networkId": 1993,
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://sepolia.b3.fun"],
+  "faucets": [],
+  "infoURL": "https://b3.fun"
+}, {
   "name": "Ekta",
   "chainId": 1994,
   "shortName": "ekta",
@@ -7905,7 +7931,7 @@
 }, {
   "name": "Swan Saturn Testnet",
   "chainId": 2024,
-  "shortName": "swan",
+  "shortName": "saturn",
   "networkId": 2024,
   "nativeCurrency": {
     "name": "SWANETH",
@@ -21539,6 +21565,19 @@
   "rpc": ["https://rpc-test.0xhash.io"],
   "faucets": [],
   "infoURL": "https://0xhash.io"
+}, {
+  "name": "Backstop Testnet",
+  "chainId": 88558801,
+  "shortName": "backstop-testnet",
+  "networkId": 88558801,
+  "nativeCurrency": {
+    "name": "Backstop Testnet 1",
+    "symbol": "ZBS",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet.rpc.backstop.technology"],
+  "faucets": [],
+  "infoURL": "https://backstop.technology/testnet"
 }, {
   "name": "T.E.A.M Blockchain",
   "chainId": 88888888,

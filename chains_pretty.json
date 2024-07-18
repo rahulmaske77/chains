@@ -4420,6 +4420,25 @@
   }],
   "status": "active"
 }, {
+  "name": "Swan Chain Mainnet",
+  "chain": "SWAN",
+  "rpc": ["https://mainnet-rpc01.swanchain.io"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "SWANETH",
+    "symbol": "sETH",
+    "decimals": 18
+  },
+  "infoURL": "https://swanchain.io/",
+  "shortName": "Swan",
+  "chainId": 254,
+  "networkId": 254,
+  "explorers": [{
+    "name": "Swanchain Explorer",
+    "url": "https://swanscan.io",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Kroma",
   "chain": "ETH",
   "rpc": ["https://api.kroma.network", "https://rpc-kroma.rockx.com"],
@@ -6812,9 +6831,9 @@
   "networkId": 646,
   "icon": "flowevm",
   "explorers": [{
-    "name": "Flow Diver",
-    "url": "https://previewnet.flowdiver.io",
-    "standard": "none"
+    "name": "EVM on Flow Block Explorer (PreviewNet)",
+    "url": "https://eth.flowscan.io",
+    "standard": "EIP3091"
   }]
 }, {
   "name": "SX Network Testnet",
@@ -12259,6 +12278,26 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "B3 Sepolia Testnet",
+  "chain": "B3 Sepolia Testnet",
+  "icon": "b3",
+  "rpc": ["https://sepolia.b3.fun"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "infoURL": "https://b3.fun",
+  "shortName": "b3-sepolia",
+  "chainId": 1993,
+  "networkId": 1993,
+  "explorers": [{
+    "name": "Blockscout",
+    "url": "https://sepolia.explorer.b3.fun",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Ekta",
   "chain": "EKTA",
   "rpc": ["https://main.ekta.io"],
@@ -12714,7 +12753,7 @@
     "decimals": 18
   },
   "infoURL": "https://swanchain.io/",
-  "shortName": "swan",
+  "shortName": "saturn",
   "chainId": 2024,
   "networkId": 2024
 }, {
@@ -35094,6 +35133,28 @@
     "chain": "eip155-1",
     "bridges": [{
       "url": "https://app.optimism.io/bridge/deposit"
+    }]
+  }
+}, {
+  "name": "Backstop Testnet",
+  "chain": "backstopTestnet",
+  "icon": "backstop",
+  "rpc": ["https://testnet.rpc.backstop.technology"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Backstop Testnet 1",
+    "symbol": "ZBS",
+    "decimals": 18
+  },
+  "infoURL": "https://backstop.technology/testnet",
+  "shortName": "backstop-testnet",
+  "chainId": 88558801,
+  "networkId": 88558801,
+  "parent": {
+    "type": "L2",
+    "chain": "eip155-11155111",
+    "bridges": [{
+      "url": "https://testnet.bridge.backstop.technology"
     }]
   }
 }, {
