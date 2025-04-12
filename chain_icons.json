@@ -119,14 +119,6 @@
     "format": "png"
   }]
 }, {
-  "name": "nxy",
-  "icons": [{
-    "url": "ipfs://bafybeicvcacuabdf77itzusl4z743ojyimnw4ztyypbls3vccq3bvygyti",
-    "width": 1024,
-    "height": 1024,
-    "format": "png"
-  }]
-}, {
   "name": "dexguru",
   "icons": [{
     "url": "ipfs://QmRaASKRSjQ5btoUQ2rNTJNxKtx2a2RoewgA7DMQkLVEne",
@@ -196,14 +188,6 @@
     "url": "ipfs://QmfUV9PqF7JxuUAYaBHh6YJ2ChCdDVobTwDibxQuPMUmPq",
     "width": 144,
     "height": 144,
-    "format": "png"
-  }]
-}, {
-  "name": "pop-apex",
-  "icons": [{
-    "url": "ipfs://QmW3NPDe6WRqucrWbe8pg3GqSMPi8V6Qa1fAiaQuqjxSJC",
-    "width": 1256,
-    "height": 1256,
     "format": "png"
   }]
 }, {
@@ -887,14 +871,6 @@
     "format": "jpg"
   }]
 }, {
-  "name": "somnia",
-  "icons": [{
-    "url": "ipfs://bafkreihcfqyihbbqunsozmiwyzk57gcwc5bs2ovo4kkypahe37brdwjlsy",
-    "width": 1200,
-    "height": 1200,
-    "format": "png"
-  }]
-}, {
   "name": "drac",
   "icons": [{
     "url": "ipfs://QmXbsQe7QsVFZJZdBmbZVvS6LgX9ZFoaTMBs9MiQXUzJTw",
@@ -956,6 +932,14 @@
     "url": "ipfs://bafkreigzf3eo43njqreysfsnvot3rzdcvj642o4ekjhjla2efyuiy46vmu",
     "width": 32,
     "height": 32,
+    "format": "png"
+  }]
+}, {
+  "name": "yominet",
+  "icons": [{
+    "url": "ipfs://QmceqNgqPdKXQqGBs8JGLUNUTeKEi69jmQNjXjTd6zfjHP",
+    "width": 200,
+    "height": 200,
     "format": "png"
   }]
 }, {
@@ -1268,14 +1252,6 @@
     "url": "ipfs://QmW44FPm3CMM2JDs8BQxLNvUtykkUtrGkQkQsUDJSi3Gmp",
     "width": 350,
     "height": 84,
-    "format": "png"
-  }]
-}, {
-  "name": "alveychain",
-  "icons": [{
-    "url": "ipfs://QmTuY2Goyxpuy5GmA32EMYZBwxRcGsahiMFgfeBixSk7rb",
-    "width": 2048,
-    "height": 1538,
     "format": "png"
   }]
 }, {
@@ -3967,7 +3943,7 @@
 }, {
   "name": "winr",
   "icons": [{
-    "url": "ipfs://bafybeidgq4dxkie4lui6lwtorehzht3bc3lirveoxvhsxgv2ly3jq6eywa",
+    "url": "ipfs://QmPL68edFCf9taAKQQu7rt11LrmWh7f7aBQ7ZkuhBKmrUv",
     "width": 816,
     "height": 854,
     "format": "png"
@@ -4186,14 +4162,6 @@
     "url": "ipfs://bafkreibkqdof3ztkdhgukwvkacwgrjb27e23hgz5c6mmudzu5hipyvgisa",
     "width": 256,
     "height": 256,
-    "format": "png"
-  }]
-}, {
-  "name": "mezo",
-  "icons": [{
-    "url": "ipfs://bafkreibnc5le6iw6qqhrmhxbpxdlr6ub7wtpr5tga5sfgnowsv2ygac5fa",
-    "width": 1200,
-    "height": 1200,
     "format": "png"
   }]
 }, {
@@ -4474,14 +4442,6 @@
     "url": "ipfs://bafkreibwywok67uewqbtqdzgr7nlk3lvvg7hxmbgwtn7kdwxe34useucvm",
     "width": 1024,
     "height": 1024,
-    "format": "png"
-  }]
-}, {
-  "name": "nexera",
-  "icons": [{
-    "url": "ipfs://bafybeihgu3exoshubbgou5u6cyylpgo3wtc2n6kkmvw67q4bemucuw3goa",
-    "width": 2048,
-    "height": 2048,
     "format": "png"
   }]
 }, {
@@ -5080,8 +5040,8 @@
   "name": "juneo-eur1",
   "icons": [{
     "url": "ipfs://QmexytQkcC8yXzEjv3mbaZyxcy7v8vEEPmii2JZQAyGjqM",
-    "width": 273,
-    "height": 273,
+    "width": 274,
+    "height": 274,
     "format": "png"
   }]
 }, {
@@ -5211,14 +5171,6 @@
     "width": 31,
     "height": 31,
     "format": "svg"
-  }]
-}, {
-  "name": "soneium",
-  "icons": [{
-    "url": "ipfs://QmWXmnBMtM93iCJ1fsVv8KNFFvxGWUzF4z5xas3zMbFZGe",
-    "width": 561,
-    "height": 561,
-    "format": "png"
   }]
 }, {
   "name": "kol",
@@ -6232,14 +6184,6 @@
     "url": "ipfs://QmZhKXgoGpzvthr2eh8ZNgT75YvMtEBegdELAaMPPzf5QT",
     "width": 384,
     "height": 384,
-    "format": "png"
-  }]
-}, {
-  "name": "sorian",
-  "icons": [{
-    "url": "ipfs://QmZmrcLYFtPZb36MZ1DyQpR7Lw8CWPP7x3Bx2anCjVWfMR",
-    "width": 500,
-    "height": 500,
     "format": "png"
   }]
 }, {
@@ -7811,6 +7755,14 @@
     "format": "png"
   }]
 }, {
+  "name": "kii",
+  "icons": [{
+    "url": "ipfs://bafkreib5kb73tb5fdvikhxe7nlnf4mmlfcfpsslalaplqfihypcmudlal4",
+    "width": 524,
+    "height": 524,
+    "format": "png"
+  }]
+}, {
   "name": "tmychain",
   "icons": [{
     "url": "ipfs://Qmcd19ksUvNMD1XQFSC55jJhDPoF2zUzzV7woteFiugwBH",
@@ -8088,14 +8040,6 @@
     "url": "ipfs://QmaQdiE7vwxKeuWCjk4nKBikcpg4XCzQkFWGrAZHmMKnrq",
     "width": 400,
     "height": 400,
-    "format": "png"
-  }]
-}, {
-  "name": "apechain",
-  "icons": [{
-    "url": "ipfs://QmTqiPnYZx6ZyPPbtsuh8VvvoH6DSCJGjTUgtTN9X8NScP",
-    "width": 1200,
-    "height": 1200,
     "format": "png"
   }]
 }, {
@@ -8501,9 +8445,9 @@
 }, {
   "name": "davinci",
   "icons": [{
-    "url": "ipfs://bafybeid7ggekwk5knwlxsesk4zomwrtg2mmcfwfqjtywghvljfbmukn2yu",
-    "width": 408,
-    "height": 353,
+    "url": "ipfs://bafkreierr6bqbopiokhqcisqdfxjkslnjgk2j77dmq2ec4oitpgxtm4wha",
+    "width": 406,
+    "height": 351,
     "format": "svg"
   }]
 }, {
@@ -8542,14 +8486,6 @@
   "name": "dxz",
   "icons": [{
     "url": "ipfs://QmUBveetVibvSEWQrjyxySgUphLuoMGSVLGmYnobt5FgEZ",
-    "width": 512,
-    "height": 512,
-    "format": "png"
-  }]
-}, {
-  "name": "cuckoo-ai",
-  "icons": [{
-    "url": "ipfs://QmZjVDfk56DjqkCPymaweJJaj9ASGjjgcwJ95XsFDzj9us",
     "width": 512,
     "height": 512,
     "format": "png"

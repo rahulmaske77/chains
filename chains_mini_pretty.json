@@ -2907,7 +2907,7 @@
     "symbol": "GHO",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://rpc.lens.xyz"],
   "faucets": [],
   "infoURL": "https://lens.xyz"
 }, {
@@ -6863,6 +6863,19 @@
   "faucets": ["http://tc04.mydefichain.com/faucet"],
   "infoURL": "https://meta.defichain.com"
 }, {
+  "name": "StateMesh",
+  "chainId": 1134,
+  "shortName": "mesh",
+  "networkId": 1134,
+  "nativeCurrency": {
+    "name": "StateMesh",
+    "symbol": "MESH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.statemesh.net"],
+  "faucets": [],
+  "infoURL": "https://statemesh.net"
+}, {
   "name": "Lisk",
   "chainId": 1135,
   "shortName": "lisk",
@@ -7630,6 +7643,19 @@
   "faucets": [],
   "infoURL": "https://www.sei.io"
 }, {
+  "name": "Kii Testnet Oro",
+  "chainId": 1336,
+  "shortName": "kiioro",
+  "networkId": 1336,
+  "nativeCurrency": {
+    "name": "Kii",
+    "symbol": "KII",
+    "decimals": 18
+  },
+  "rpc": ["https://json-rpc.uno.sentry.testnet.v3.kiivalidator.com"],
+  "faucets": ["https://explorer.kiichain.io/testnet/faucet"],
+  "infoURL": "https://kiichain.io"
+}, {
   "name": "Geth Testnet",
   "chainId": 1337,
   "shortName": "geth",
@@ -8370,6 +8396,45 @@
   "rpc": ["https://rpc.reya.network", "wss://ws.reya.network"],
   "faucets": [],
   "infoURL": "https://reya.network"
+}, {
+  "name": "Fuga Mainnet",
+  "chainId": 1732,
+  "shortName": "FUGA",
+  "networkId": 1732,
+  "nativeCurrency": {
+    "name": "FUGA",
+    "symbol": "FUGA",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.fuga.blue"],
+  "faucets": [],
+  "infoURL": "https://fuga.one"
+}, {
+  "name": "Fuga Testnet",
+  "chainId": 1733,
+  "shortName": "FUGA_T",
+  "networkId": 1733,
+  "nativeCurrency": {
+    "name": "FUGA",
+    "symbol": "FUGA",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-testnet.fuga.blue"],
+  "faucets": [],
+  "infoURL": "https://fuga.one"
+}, {
+  "name": "Fuga Develop",
+  "chainId": 1734,
+  "shortName": "FUGA_D",
+  "networkId": 1734,
+  "nativeCurrency": {
+    "name": "FUGA",
+    "symbol": "FUGA",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-develop.fuga.blue"],
+  "faucets": [],
+  "infoURL": "https://fuga.one"
 }, {
   "name": "Metal L2 Testnet",
   "chainId": 1740,
@@ -9823,7 +9888,7 @@
     "symbol": "G7",
     "decimals": 18
   },
-  "rpc": ["https://mainnet-rpc.game7.io", "wss://mainnet-rpc.game7.io"],
+  "rpc": ["https://mainnet-rpc.game7.io", "wss://mainnet-rpc.game7.io", "https://mainnet-rpc.game7.build", "wss://mainnet-rpc.game7.build"],
   "faucets": [],
   "infoURL": "https://game7.io/"
 }, {
@@ -12891,7 +12956,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://settlus-mainnet.g.alchemy.com/public"],
   "faucets": [],
   "infoURL": "https://settlus.org"
 }, {
@@ -17246,7 +17311,7 @@
     "symbol": "TG7T",
     "decimals": 18
   },
-  "rpc": ["https://testnet-rpc.game7.io", "wss://testnet-rpc.game7.io"],
+  "rpc": ["https://testnet-rpc.game7.io", "wss://testnet-rpc.game7.io", "https://testnet-rpc.game7.build", "wss://testnet-rpc.game7.build"],
   "faucets": [],
   "infoURL": "https://game7.io"
 }, {
@@ -20448,13 +20513,13 @@
   "faucets": [],
   "infoURL": "https://somnia.network"
 }, {
-  "name": "Reddio Devnet",
+  "name": "Reddio Testnet",
   "chainId": 50341,
   "shortName": "reddio-devnet",
   "networkId": 50341,
   "nativeCurrency": {
-    "name": "Red",
-    "symbol": "RED",
+    "name": "Reddio",
+    "symbol": "RDO",
     "decimals": 18
   },
   "rpc": ["https://reddio-dev.reddio.com"],
@@ -24409,7 +24474,7 @@
     "symbol": "WETH",
     "decimals": 18
   },
-  "rpc": ["https://rpc.hydradx.cloud", "wss://rpc.hydradx.cloud", "https://hydration-rpc.n.dwellir.com", "wss://hydration-rpc.n.dwellir.com", "https://rpc.helikon.io/hydradx", "wss://rpc.helikon.io/hydradx", "https://hydration.dotters.network", "wss://hydration.dotters.network"],
+  "rpc": ["https://rpc.hydradx.cloud", "wss://rpc.hydradx.cloud", "https://hydration-rpc.n.dwellir.com", "wss://hydration-rpc.n.dwellir.com", "https://rpc.helikon.io/hydradx", "wss://rpc.helikon.io/hydradx", "https://hydration.dotters.network", "wss://hydration.dotters.network", "https://hydration.ibp.network", "wss://hydration.ibp.network", "https://rpc.cay.hydration.cloud", "wss://rpc.cay.hydration.cloud", "https://rpc.parm.hydration.cloud", "wss://rpc.parm.hydration.cloud", "https://rpc.roach.hydration.cloud", "wss://rpc.roach.hydration.cloud", "https://rpc.zipp.hydration.cloud", "wss://rpc.zipp.hydration.cloud", "https://rpc.sin.hydration.cloud", "wss://rpc.sin.hydration.cloud", "https://rpc.coke.hydration.cloud", "wss://rpc.coke.hydration.cloud"],
   "faucets": [],
   "infoURL": "https://hydration.net/"
 }, {
@@ -27000,6 +27065,19 @@
   "faucets": [],
   "infoURL": ""
 }, {
+  "name": "COTI",
+  "chainId": 2632500,
+  "shortName": "coti",
+  "networkId": 2632500,
+  "nativeCurrency": {
+    "name": "COTI",
+    "symbol": "COTI",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.coti.io/rpc"],
+  "faucets": [],
+  "infoURL": "https://coti.io/"
+}, {
   "name": "Xterio Chain (ETH)",
   "chainId": 2702128,
   "shortName": "xterio",
@@ -27637,7 +27715,7 @@
   "faucets": ["https://blessnet-sepolia-testnet.hub.caldera.xyz"],
   "infoURL": "https://blessnet.io"
 }, {
-  "name": "Sepolia",
+  "name": "Ethereum Sepolia",
   "chainId": 11155111,
   "shortName": "sep",
   "networkId": 11155111,
@@ -29989,6 +30067,19 @@
   "rpc": ["https://rpc.flame.dawn-1.astria.org"],
   "faucets": [],
   "infoURL": "https://astria.org"
+}, {
+  "name": "Yominet",
+  "chainId": 428962654539583,
+  "shortName": "yomi",
+  "networkId": 428962654539583,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://jsonrpc-yominet-1.anvil.asia-southeast.initia.xyz"],
+  "faucets": [],
+  "infoURL": "https://www.kamigotchi.io/"
 }, {
   "name": "Godwoken Testnet (V1)",
   "chainId": 868455272153094,
